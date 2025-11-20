@@ -40,6 +40,7 @@ project/
 ├── app.py                # Main Streamlit application
 ├── utils.py              # Helper functions (loading cleaning)
 ├── plotting.py           # Helper functions for plotting
+├── requirement.txt       # File containing the required packages
 │
 ├── data/
 │   ├── swiss_clean_energy.csv
@@ -55,8 +56,8 @@ project/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourname/renewable-energy-dashboard.git
-cd renewable-energy-dashboard
+git clone https://github.com/gitsujay25/Swiss_Clean_Energy.git
+cd Swiss_Clean_Energy
 conda create -n energy_vis python=3.10
 conda activate energy_vis
 pip install -r requirements.txt
@@ -126,4 +127,5 @@ Feel free to fork the repository, open issues, or submit pull requests.
 ## 📬 Contact
 For questions or suggestions:
 - Author: Sujay Ray
-- GitHub: https://github.com/yourname
+- GitHub: https://github.com/gitsujay25
+- Linkdin: https://www.linkedin.com/in/sujayray92/
